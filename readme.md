@@ -18,6 +18,22 @@ You will need local administrator permissions on your computer to install the ch
 1. Install the ch431 drivers by running the CH431SER.exe drivers
 1. Expand the wavget-ide.zip
 
+## Starter Kit Components
+
+* 1 × 400 holes Breadboard
+* 5 × 3 colors of LED lights(random)
+* 10 × Resistor 220ohm
+* 10 × Resistor 1K
+* 10 × Resistor 10K
+* 10 × Resistor 100K
+* 2 × Photoresistor 5516
+* 6 × Button(with the mixed color caps)
+* 1 × 9V Batteryt Connector
+* Temperature sensor DS18B20 TO-92 18B20 Electronic chip IC
+* 2 x 5V 12mm Mini Active Piezo Buzzers
+* 1 x 10K Ohm Potentiometer Resistor 
+* 2 x 5mm full-color LED RGB red/green/blue
+
 ## Package downloads
 
 * Arduino IDE [link](https://www.arduino.cc/en/main/software)
@@ -28,12 +44,6 @@ You will need local administrator permissions on your computer to install the ch
 
 * Arduino Foundation website [link](https://www.arduino.cc)
 * WAVGAT Store on AliExpress [link](https://wavgat.aliexpress.com/store/1962508?spm=a2g0o.detail.1000061.1.c98d4d638hIHne)
-
-## It looks like an Arduino Uno R3, but its not.
-
-If you want to read more about the differences between this board and a standard Arduino Uno R3 clone you can read here.
-
-[WAVGAT pseudo-clone - Issues and Troubleshouting ui](https://forum.arduino.cc/index.php?topic=560692.0)
 
 ## Tech Details
 
@@ -46,3 +56,9 @@ Tech Details:
 
 Install Instructions:
 ![Install-Details](wavgat-install-instructions.webp?raw=true)
+
+## It looks like an Arduino Uno R3, but its not.
+
+If you want to read more about the differences between this board and a standard Arduino Uno R3 clone you can read here.
+
+[WAVGAT pseudo-clone - Issues and Troubleshouting ui](https://forum.arduino.cc/index.php?topic=560692.0)
