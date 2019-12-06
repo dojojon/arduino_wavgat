@@ -28,8 +28,8 @@ You will need local administrator permissions on your computer to install the ch
 ## Tech Details
 
 Pin-Out:
-![WAVGAT-Pins](https://github.com/dojojon/arduino_wavgat/wavgat-pinout.jpg)
+![WAVGAT-Pins](wavgat-pinout.jpg?raw=true)
 
 
 Tech Details:
-![Tech-Details](https://github.com/dojojon/arduino_wavgat/wavgat-tech.jpg)
+![Tech-Details](wavgat-tech.jpg?raw=true)
